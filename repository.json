@@ -1,0 +1,15 @@
+{
+  "name": "leMineGaming's Home Assistant Apps",
+  "url": "https://github.com/leMineGaming/hassio-addons",
+  "maintainer": "leMineGaming",
+  "channels": {
+    "stable": {
+      "name": "Stable",
+      "description": "Official releases with pre-built Docker images"
+    },
+    "edge": {
+      "name": "Edge (Development)",
+      "description": "Latest development builds - built locally from source"
+    }
+  }
+}
